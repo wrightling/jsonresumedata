@@ -1,130 +1,175 @@
 {
   "basics": {
     "name": "Warren Wright",
-    "label": "Programmer",
+    "label": "Director of Software Engineering",
     "picture": "",
     "email": "warren@thewrightangle.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Looking to make the highest possible contribution as software engineering director, bringing 14 years of experience hiring, managing, and directing software teams.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "80116",
+      "city": "Franktown",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
+        "username": "wrightling",
         "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Stella & Dot Family of Brands",
+      "position": "Director of Software Engineering",
+      "startDate": "2014-09-01",
+      "endDate": "2018-01-01",
+      "summary": "Built and directed agile teams responsible for launching new brands and extending Stella & Dot's microservice-based architecture.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Hired, managed, and directed three agile teams focused around Stella's core architecture.",
+        "Launched everskin.com, the third brand in the Stella & Dot Family of Brands. Directed and  managed the agile team to launch this new line of business, growing to $500,000 annual revenue. Travelled extensively to California to guide an on-site team during the development for this new brand, over a six month period. Built multi-brand capability into the evolving rails-based microservice API layer to support multiple lines of business from the same platform.",
+        "Key role in migration of the core Stella & Dot line of business onto new rails-based microservice platform. Hired to build two additional teams in support of this migration, a combination of full-time and contract. Collaborated with 6 other teams and their directors to successfully migrate Stella & Dot smoothly onto the new platform in August of 2017, the culmination of 3 years of work on the platform and a year of heads-down focus on preparation for the migration.",
+        "Worked closely with Principal Engineers to move Stella & Dot towards continuous deployment. Adopted Docker containers across my teams and helped propel Stella & Dot to wider use of Docker for dynamically generated QA environments. Moved from bi-weekly or even less frequent deploy cycle where teams took turns to an automated daily deploy train, allowing over 7 teams to contribute code to production each day. Greatly simplified the Git workflow for all teams during the move to a daily deploy train.",
+        "Key participant in offsite week-long architecture and planning sessions for major shifts in the company, including the big migration from PHP/Magento to the new Rails-based microservice platform, and to guide the company's annual technical direction.",
+        "Led major platform-wide implementations affecting all three lines of business, including Backorder capability, generating $350,000 in revenue during the first year of implementation, and Subscription capability (both auto-ship and memberships), generating $3,600,000 revenue during the first year of implementation.",
+        "Oversaw technical improvements to the micrservice API layer, in aid of all three lines of business, including adoption of widespread use of feature flags via LaunchDarkly, enabling more frequent deployment of completed user stories, expanded use of Elastic, via the repository pattern, to help integrate non-rails internal systems, such as Stella & Dot's Commissions and Genealogy service, and use of RabbitMQ exchanges to broadcast messages for use among multiple microservices, decoupling subscriber services from broadcast services.",
+        "Moved Stella & Dot constantly improve the production support processes, including a move to a daily PRS rotation among engineers, with 1st and 3rd line splits to ensure appropriate care and attention.",
+        "Continuously improved practices across three teams, directly managing engineers on each and growing strong technical leads for each team. Led retrospectives and tracked key take-aways for the teams, and performed many duties normally associated with a Scrum Master. Led architecture and design sessions for non-trivial features ahead of development, and maintained a close eye on through to and including code reviews during development, in conjunction with my technical leads. Promoted an environment of constant collaboration, taking seriously the spirit of Agile (a card, a conversation, a confirmation) much more so than the structure (Scrum in this case)."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "company": "Next Wave Logistics",
+      "position": "Application Director",
+      "startDate": "2009-02-01",
+      "endDate": "2014-07-01",
+      "summary": "Software Engineering director responsible for leading fully remote project teams to deliver full-stack applications for Next Wave’s largest client.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Spearheaded the implementation of Agile practices at Next Wave, including involvement as a Scrum Master in a fully remote Scrum team for, where we spent over a year developing Next Wave’s key product initiative and continuously refining agile practices.",
+        "Hired and led a mobile development team through creation of two different e-commerce iOS and Android apps.",
+        "Worked directly with Next Wave’s largest client to gather and document user stories for new projects and to see those projects through from requirements to deployment.",
+        "Implemented and continuously refactored Cucumber-JVM integration features for Next Wave’s e- commerce product, including step definitions and clean coding strategies, such as the Test Data Builder pattern and a move from imperative-style tests to BDD-style, declarative features.",
+        "Responsible for design and implementation of a ruby application that generated C#.NET code based on a number of database assets. This was a key part of the migration path from a legacy product catalog system into Next Wave’s e-commerce platform.",
+        "Designed and implemented JIRA workflows for both agile and more traditional (waterfall) teams."
+      ]
+    },
+    {
+      "company": "JP Morgan FCS",
+      "position": "Senior Software Engineer",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Automated key portions of a process related to the core business of FCS.",
+      "highlights": [
+        "Analysis of existing (manual) fax review, categorization, and dissemination for major investment banking institutions.",
+        "Design and implementation of OCR algorithms required for automatic categorization of faxes."
+      ]
+    },
+    {
+      "company": "Experian’s Decision Analytics Global Business Unit",
+      "position": "Software Engineering Manager",
+      "startDate": "2004-08-01",
+      "endDate": "2007-12-01",
+      "summary": "Responsible for a multi-national team of 10 developers and 7 credit bureau analysts, with responsibility for FCRA compliant software development projects delivered to global financial companies (e.g. Washington Mutual, Capital One, Bank of America, Providian, HSBC).",
+      "highlights": [
+        "Hired and managed development staff locally and in Santiago, Chile, including both performance management and a key role in supporting a re-organization across our global business unit, for efficiency and future growth, that culminated in staff reduction in the U.S offices.",
+        "Represented Experian as a technical SME in on-site customer kick-off meetings for major projects, such as Capital One and Pacific Capital Bank. Summarized technical requirements in documentation and worked with internal delivery teams and client technical resources for fulfillment of contracts in excess of $400,000.",
+        "Managed and contributed to projects through the full software development life-cycle from requirements extraction through the hand-off into ongoing maintenance.",
+        "Led a successful transition from Windows-only development of C++ hooks and interfaces to multi- platform deployment in support of global financial institutions' demands for AIX Unix and Solaris solutions.",
+        "Managed and contributed to the design, development, testing, integration, and delivery of high volume, multi-threaded applications, involving a compliment of C++, C#, and XSLT.",
+        "Infused strong development methodologies into the team to limit risk in developing applications that, in production, handle highly sensitive, highly regulated consumer credit information. This included effective internal QA and unit testing practices, consistent programming practices, and operational documentation around design, implementation, and support requirements.",
+        "Implemented a strong source control and change management system (initially MKS, and later IBM- Rational Clearcase) in support of an environment where team members collectively support source code."
+      ]
+    },
+    {
+      "company": "Experian-Scorex",
+      "position": "Software Engineering Lead",
+      "startDate": "2000-07-01",
+      "endDate": "2004-08-01",
+      "summary": "Team Lead responsible for development of C++ and C# components, as well as implementation of best practices across the team.",
+      "highlights": [
+        "Crafted an enterprise web service, using C# and hosted on Windows 2000 Advanced Server under IIS 6, that provided gateways to dozens of our largest customers for B2B calls to proprietary, client-specific solutions hosted within Experian's secure, redundant, 24x7 Data Centers. Implementations of this reusable, high availability web service included Juniper Bank (peaking at 35,000 transactions per day) and Dell (peaking at 10,000 transactions hour).",
+        "Designed and developed numerous C++ components to extend the functionality of client systems under both Windows 2000 and AIX Unix. An example is a generic, reusable hook, used by most systems Experian-Scorex delivered, that allowed analysts to configure stored procedure calls out to SQL Server with wildly different parameters and output, without writing custom code for each client delivery. The impact of this reusable component was reduced coding requirements for future system deliveries.",
+        "Designed and configured large MS SQL Server installations for customer systems, including stored procedure work, table design, and very large database optimization against tables containing over 300 million records of consumer credit data. Coded against these SQL installations to connect client systems to their hosted data.",
+        "Tuned high traffic client/server solutions for performance to meet strict SLA's around uptime and availability in scenarios where minutes of system downtime mean thousands of dollars in revenue lost.",
+        "Standardized development practices for the team and managed resource allocation for ongoing and upcoming projects."
+      ]
+    },
+    {
+      "company": "Routech",
+      "position": "Software Engineer",
+      "startDate": "1998-07-01",
+      "endDate": "2000-07-01",
+      "summary": "Application development for high-end engineering software intended to auto-route printed circuit boards.",
+      "highlights": [
+        "Designed and coded components of the initial product prototype in Java, which was used to win continued venture capital funding for Routech. This work constituted over six months of Java development.",
+        "Made core design and development contributions to the final product, working primarily in C++, following object oriented design principles. I was given wide responsibility for algorithm development (and implementation) of some of the key challenges of this project."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "University of Texas at Dallas",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "1995-08-01",
+      "endDate": "1998-05-01",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Wide Teams Podcast",
+      "releaseDate": "2013-10-23",
+      "website": "http://www.wideteams.com/2013/10/23/episode-100-warren-wright/"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Agile Methodologies",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "agile",
+        "scrum"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Technical Focus",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "elastic",
+        "rabbitMQ",
+        "Docker",
+        "Ruby on Rails",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "design",
+        "architecture",
+        "production support"
+      ]
+    },
+    {
+      "name": "Team Creation/Management",
+      "keywords": [
+        "hiring",
+        "employee development",
+        "conflict resolution"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
   ],
   "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Jose Martinez",
+      "reference": "Warren is the kind of leader that engineering teams dream of. He's a champion of intelligent and flexible designs, who is in touch with the technical details and with his individual players, who challenges his teams to stretch and to be agile, and prioritizes individual growth and development, while giving his team space to self manage, explore their creativity, and truly thrive. I was privileged to report directly to Warren; I grew quickly under his leadership, and our team successfully navigated our biggest challenges with him at the helm. In a senior leaderships role, Warren has so much to offer to any organization lucky enough to have him, and I look forward to the opportunity to work with him again."
     }
   ]
 }
