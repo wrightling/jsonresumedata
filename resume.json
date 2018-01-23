@@ -4,7 +4,7 @@
     "label": "Director of Software Engineering",
     "picture": "",
     "email": "warren@thewrightangle.com",
-    "summary": "Looking to make the highest possible contribution as software engineering director, bringing 14 years of experience hiring, managing, and directing software teams (both remote and on-site). I love to foster a collaborative environment where teams grow and excel, and have long experience building up technical leadership and providing technical oversight.",
+    "summary": "Seasoned director with 14 years of experience hiring, managing, and directing agile teams. I have expertise building up technical leadership and providing technical oversight for on-site, remote, and partially remote teams.",
     "location": {
       "address": "",
       "postalCode": "80116",
@@ -29,13 +29,13 @@
       "summary": "Built and directed agile teams responsible for launching new brands and extending Stella & Dot's microservice-based architecture.",
       "highlights": [
         "Hired, managed, and directed three agile teams focused around Stella's core architecture.",
-        "Launched everskin.com, the third brand in the Stella & Dot Family of Brands. Directed and  managed the agile team to launch this new line of business, growing to $500,000 annual revenue. Travelled extensively to California to guide an on-site team during the development for this new brand, over a nine month period. Built multi-brand capability into the evolving rails-based microservice API layer to support multiple lines of business from the same platform.",
+        "Launched everskin.com, the third brand in the Stella & Dot Family of Brands, growing to $500,000 annual revenue. Travelled extensively to California to guide an on-site team during the development for this new brand, over a nine month period. Built multi-brand capability into the evolving rails-based microservice API layer to support multiple lines of business from the same platform.",
         "Key role in migration of the core Stella & Dot line of business onto new rails-based microservice platform. Hired to build two additional teams in support of this migration, a combination of full-time and contract. Collaborated with 6 other teams and their directors to successfully migrate Stella & Dot smoothly onto the new platform in August of 2017, the culmination of 3 years of work on the platform and a year of heads-down focus on preparation for the migration.",
         "Worked closely with Principal Engineers to move Stella & Dot towards continuous deployment. Adopted Docker containers across my teams and helped propel Stella & Dot to wider use of Docker for dynamically generated QA environments. Moved from bi-weekly or even less frequent deploy cycle where teams took turns to an automated daily deploy train, allowing over 7 teams to contribute code to production each day. Greatly simplified the Git workflow for all teams during the move to a daily deploy train.",
         "Key participant in offsite week-long architecture and planning sessions for major shifts in the company, including the big migration from PHP/Magento to the new Rails-based microservice platform, and to guide the company's annual technical direction.",
         "Led major platform-wide implementations affecting all three lines of business, including Backorder capability, generating $350,000 in revenue during the first year of implementation, and Subscription capability (both auto-ship and memberships), generating $3,600,000 revenue during the first year of implementation.",
-        "Oversaw technical improvements to the micrservice API layer, in aid of all three lines of business, including adoption of widespread use of feature flags via LaunchDarkly, enabling more frequent deployment of completed user stories, expanded use of Elastic, via the repository pattern, to help integrate non-rails internal systems, such as Stella & Dot's Commissions and Genealogy service, and use of RabbitMQ exchanges to broadcast messages for use among multiple microservices, decoupling subscriber services from broadcast services.",
-        "Moved Stella & Dot constantly improve the production support processes, including a move to a daily PRS rotation among engineers, with 1st and 3rd line splits to ensure appropriate care and attention.",
+        "Oversaw technical improvements to the microservice API layer, in aid of all three lines of business, including adoption of widespread use of feature flags via LaunchDarkly, enabling more frequent deployment of completed user stories, expanded use of Elastic, via the repository pattern, to help integrate non-rails internal systems, such as Stella & Dot's Commissions and Genealogy service, and use of RabbitMQ exchanges to broadcast messages for use among multiple microservices, decoupling subscriber services from broadcast services.",
+        "Moved Stella & Dot to constantly improve the production support processes, including a move to a daily PRS rotation among engineers, with 1st and 3rd line splits to ensure appropriate care and attention.",
         "Continuously improved practices across three teams, directly managing engineers on each and growing strong technical leads for each team. Led retrospectives and tracked key take-aways for the teams, and performed many duties normally associated with a Scrum Master. Led architecture and design sessions ahead of development, and maintained a close eye from inception to post-production, in conjunction with my technical leads. Promoted an environment of constant collaboration, taking seriously the spirit of Agile (a card, a conversation, a confirmation) much more so than the structure (Scrum in this case)."
       ]
     },
@@ -46,12 +46,9 @@
       "endDate": "2014-07-01",
       "summary": "Software Engineering director responsible for leading fully remote project teams to deliver full-stack applications for Next Wave’s largest client.",
       "highlights": [
-        "Spearheaded the implementation of Agile practices at Next Wave, including involvement as a Scrum Master in a fully remote Scrum team, where we spent over a year developing Next Wave’s key product initiative and continuously refining agile practices.",
+        "Spearheaded the implementation of Agile practices at Next Wave, including involvement as a Scrum Master in a fully remote Scrum team, where we spent over a year developing Next Wave’s key product initiative.",
         "Hired and led a mobile development team through creation of two different e-commerce iOS and Android apps.",
-        "Worked directly with Next Wave’s largest client to gather and document user stories for new projects and to see those projects through from requirements to deployment.",
-        "Implemented and continuously refactored Cucumber-JVM integration features for Next Wave’s e- commerce product, including step definitions and clean coding strategies, such as the Test Data Builder pattern and a move from imperative-style tests to BDD-style, declarative features.",
-        "Responsible for design and implementation of a ruby application that generated C#.NET code based on a number of database assets. This was a key part of the migration path from a legacy product catalog system into Next Wave’s e-commerce platform.",
-        "Designed and implemented JIRA workflows for both agile and more traditional (waterfall) teams."
+        "Worked directly with Next Wave’s largest client to gather and document user stories for new projects and to see those projects through from requirements to deployment."
       ]
     },
     {
@@ -61,7 +58,6 @@
       "endDate": "2009-01-01",
       "summary": "Automated key portions of a process related to the core business of FCS.",
       "highlights": [
-        "Analysis of existing (manual) fax review, categorization, and dissemination for major investment banking institutions.",
         "Design and implementation of OCR algorithms required for automatic categorization of faxes."
       ]
     },
@@ -73,12 +69,9 @@
       "summary": "Responsible for a multi-national team of 10 developers and 7 credit bureau analysts, with responsibility for FCRA compliant software development projects delivered to global financial companies (e.g. Washington Mutual, Capital One, Bank of America, Providian, HSBC).",
       "highlights": [
         "Hired and managed development staff locally and in Santiago, Chile. This included both performance management and a key role in supporting a re-organization across our global business unit, for efficiency and future growth, that culminated in staff reduction in the U.S offices.",
-        "Represented Experian as a technical SME in on-site customer kick-off meetings for major projects, such as Capital One and Pacific Capital Bank. Summarized technical requirements in documentation and worked with internal delivery teams and client technical resources for fulfillment of contracts in excess of $400,000.",
-        "Managed and contributed to projects through the full software development life-cycle from requirements extraction through the hand-off into ongoing maintenance.",
-        "Led a successful transition from Windows-only development of C++ hooks and interfaces to multi- platform deployment in support of global financial institutions' demands for AIX Unix and Solaris solutions.",
-        "Managed and contributed to the design, development, testing, integration, and delivery of high volume, multi-threaded applications, involving a compliment of C++, C#, and XSLT.",
         "Infused strong development methodologies into the team to limit risk in developing applications that, in production, handle highly sensitive, highly regulated consumer credit information. This included effective internal QA and unit testing practices, consistent programming practices, and operational documentation around design, implementation, and support requirements.",
-        "Implemented a strong source control and change management system (initially MKS, and later IBM- Rational Clearcase) in support of an environment where team members collectively support source code."
+        "Represented Experian as a technical SME in on-site customer kick-off meetings for major projects, such as Capital One and Pacific Capital Bank.",
+        "Managed and contributed to projects through the full software development life-cycle from requirements extraction through the hand-off into ongoing maintenance."
       ]
     },
     {
@@ -88,10 +81,8 @@
       "endDate": "2004-08-01",
       "summary": "Team Lead responsible for development of C++ and C# components, as well as implementation of best practices across the team.",
       "highlights": [
-        "Crafted an enterprise web service, using C# and hosted on Windows 2000 Advanced Server under IIS 6, that provided gateways to dozens of our largest customers for B2B calls to proprietary, client-specific solutions hosted within Experian's secure, redundant, 24x7 Data Centers. Implementations of this reusable, high availability web service included Juniper Bank (peaking at 35,000 transactions per day) and Dell (peaking at 10,000 transactions hour).",
-        "Designed and developed numerous C++ components to extend the functionality of client systems under both Windows 2000 and AIX Unix. An example is a generic, reusable hook, used by most systems Experian-Scorex delivered, that allowed analysts to configure stored procedure calls out to SQL Server with wildly different parameters and output, without writing custom code for each client delivery. The impact of this reusable component was reduced coding requirements for future system deliveries.",
-        "Designed and configured large MS SQL Server installations for customer systems, including stored procedure work, table design, and very large database optimization against tables containing over 300 million records of consumer credit data. Coded against these SQL installations to connect client systems to their hosted data.",
-        "Tuned high traffic client/server solutions for performance to meet strict SLA's around uptime and availability in scenarios where minutes of system downtime mean thousands of dollars in revenue lost.",
+        "Crafted an enterprise web service, using C# and hosted on Windows 2000 Advanced Server under IIS 6, that provided gateways to dozens of our largest customers for B2B calls to proprietary, client-specific solutions hosted within Experian's secure, redundant, 24x7 Data Centers.",
+        "Designed and developed numerous C++ components to extend the functionality of client systems under both Windows 2000 and AIX Unix.",
         "Standardized development practices for the team and managed resource allocation for ongoing and upcoming projects."
       ]
     },
@@ -102,7 +93,6 @@
       "endDate": "2000-07-01",
       "summary": "Application development for high-end engineering software intended to auto-route printed circuit boards.",
       "highlights": [
-        "Designed and coded components of the initial product prototype in Java, which was used to win continued venture capital funding for Routech. This work constituted over six months of Java development.",
         "Made core design and development contributions to the final product, working primarily in C++, following object oriented design principles. I was given wide responsibility for algorithm development (and implementation) of some of the key challenges of this project."
       ]
     }
