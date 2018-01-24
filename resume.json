@@ -4,7 +4,7 @@
     "label": "Director of Software Engineering",
     "picture": "",
     "email": "warren@thewrightangle.com",
-    "summary": "Seasoned director with 14 years of experience hiring, managing, and directing agile teams. I have expertise building up technical leadership and providing technical oversight for on-site, remote, and partially remote teams.",
+    "summary": "Bringing 14 years of experience in hiring, managing, and directing software teams, with a unique ability to establish collaborative and high-performance environments, among both on-site and remote Agile teams, while developing technical leadership from within.",
     "location": {
       "address": "",
       "postalCode": "80116",
@@ -26,17 +26,16 @@
       "position": "Director of Software Engineering",
       "startDate": "2014-09-01",
       "endDate": "2018-01-01",
-      "summary": "Built and directed agile teams responsible for launching new brands and extending Stella & Dot's microservice-based architecture.",
+      "summary": "Built and directed three agile teams responsible for launching new brands and extending Stella & Dot's microservice-based architecture.",
       "highlights": [
-        "Hired, managed, and directed three agile teams focused around Stella's core architecture.",
-        "Launched everskin.com, the third brand in the Stella & Dot Family of Brands, growing to $500,000 annual revenue. Travelled extensively to California to guide an on-site team during the development for this new brand, over a nine month period. Built multi-brand capability into the evolving rails-based microservice API layer to support multiple lines of business from the same platform.",
-        "Key role in migration of the core Stella & Dot line of business onto new rails-based microservice platform. Hired to build two additional teams in support of this migration, a combination of full-time and contract. Collaborated with 6 other teams and their directors to successfully migrate Stella & Dot smoothly onto the new platform in August of 2017, the culmination of 3 years of work on the platform and a year of heads-down focus on preparation for the migration.",
-        "Worked closely with Principal Engineers to move Stella & Dot towards continuous deployment. Adopted Docker containers across my teams and helped propel Stella & Dot to wider use of Docker for dynamically generated QA environments. Moved from bi-weekly or even less frequent deploy cycle where teams took turns to an automated daily deploy train, allowing over 7 teams to contribute code to production each day. Greatly simplified the Git workflow for all teams during the move to a daily deploy train.",
-        "Key participant in offsite week-long architecture and planning sessions for major shifts in the company, including the big migration from PHP/Magento to the new Rails-based microservice platform, and to guide the company's annual technical direction.",
-        "Led major platform-wide implementations affecting all three lines of business, including Backorder capability, generating $350,000 in revenue during the first year of implementation, and Subscription capability (both auto-ship and memberships), generating $3,600,000 revenue during the first year of implementation.",
-        "Oversaw technical improvements to the microservice API layer, in aid of all three lines of business, including adoption of widespread use of feature flags via LaunchDarkly, enabling more frequent deployment of completed user stories, expanded use of Elastic, via the repository pattern, to help integrate non-rails internal systems, such as Stella & Dot's Commissions and Genealogy service, and use of RabbitMQ exchanges to broadcast messages for use among multiple microservices, decoupling subscriber services from broadcast services.",
-        "Moved Stella & Dot to constantly improve the production support processes, including a move to a daily PRS rotation among engineers, with 1st and 3rd line splits to ensure appropriate care and attention.",
-        "Continuously improved practices across three teams, directly managing engineers on each and growing strong technical leads for each team. Led retrospectives and tracked key take-aways for the teams, and performed many duties normally associated with a Scrum Master. Led architecture and design sessions ahead of development, and maintained a close eye from inception to post-production, in conjunction with my technical leads. Promoted an environment of constant collaboration, taking seriously the spirit of Agile (a card, a conversation, a confirmation) much more so than the structure (Scrum in this case)."
+        "Directly managed engineers while growing strong technical leads for each team.",
+        "Led architecture and design sessions, and stayed close to Team Leads and to project milestones from inception to postproduction.",
+        "Promoted an environment of constant collaboration, taking seriously the spirit of Agile (a card, a conversation, a confirmation).",
+        "Drove architecture discussions, and helped plan major shifts in the company's technical direction",
+        "Directed a team that built multi-brand capability into an evolving, Rails-based microservice platform, and successfully launched everskin.com, the second on the platform and third brand in the Stella & Dot Family of Brands, which now exceeds $14MM annual revenue.",
+        "As Council member, provided technical leadership while overseeing the migration of the flagship Stella & Dot business onto the more robust microservice platform - which would nearly double the platform's order volume and revenue for the year in just the final quarter.",
+        "Modernized the software delivery cycle by partnering with Principal Engineers to move Stella & Dot towards continuous deployment, using Docker for dynamically generated, full-stack QA environments, establishing a largely automated daily Deploy Train process, and simplifying the Git workflow for all teams.",
+        "Led major platform-wide implementations affecting all three lines of business, including Backordering, which saved over $350K in sales in its first year, and Subscription billing, which added over $5MM in revenue for 2017."
       ]
     },
     {
@@ -68,8 +67,8 @@
       "endDate": "2007-12-01",
       "summary": "Responsible for a multi-national team of 10 developers and 7 credit bureau analysts, with responsibility for FCRA compliant software development projects delivered to global financial companies (e.g. Washington Mutual, Capital One, Bank of America, Providian, HSBC).",
       "highlights": [
-        "Hired and managed development staff locally and in Santiago, Chile. This included both performance management and a key role in supporting a re-organization across our global business unit, for efficiency and future growth, that culminated in staff reduction in the U.S offices.",
-        "Infused strong development methodologies into the team to limit risk in developing applications that, in production, handle highly sensitive, highly regulated consumer credit information. This included effective internal QA and unit testing practices, consistent programming practices, and operational documentation around design, implementation, and support requirements.",
+        "Hired and managed development staff locally and in Santiago, Chile.",
+        "Infused strong development methodologies into the team to limit risk in developing applications that, in production, handle highly sensitive, highly regulated consumer credit information.",
         "Represented Experian as a technical SME in on-site customer kick-off meetings for major projects, such as Capital One and Pacific Capital Bank.",
         "Managed and contributed to projects through the full software development life-cycle from requirements extraction through the hand-off into ongoing maintenance."
       ]
@@ -81,7 +80,6 @@
       "endDate": "2004-08-01",
       "summary": "Team Lead responsible for development of C++ and C# components, as well as implementation of best practices across the team.",
       "highlights": [
-        "Crafted an enterprise web service, using C# and hosted on Windows 2000 Advanced Server under IIS 6, that provided gateways to dozens of our largest customers for B2B calls to proprietary, client-specific solutions hosted within Experian's secure, redundant, 24x7 Data Centers.",
         "Designed and developed numerous C++ components to extend the functionality of client systems under both Windows 2000 and AIX Unix.",
         "Standardized development practices for the team and managed resource allocation for ongoing and upcoming projects."
       ]
@@ -158,7 +156,7 @@
   ],
   "references": [
     {
-      "name": "Jose Martinez",
+      "name": "Jose Martinez, Tech Lead, Stella & Dot Family of Brands",
       "reference": "Warren is the kind of leader that engineering teams dream of. He's a champion of intelligent and flexible designs, who is in touch with the technical details and with his individual players, who challenges his teams to stretch and to be agile, and prioritizes individual growth and development, while giving his team space to self manage, explore their creativity, and truly thrive. I was privileged to report directly to Warren; I grew quickly under his leadership, and our team successfully navigated our biggest challenges with him at the helm. In a senior leaderships role, Warren has so much to offer to any organization lucky enough to have him, and I look forward to the opportunity to work with him again."
     }
   ]
